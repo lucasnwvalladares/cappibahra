@@ -1,4 +1,4 @@
-# cappibahra
+# CappiBahra
 
 ## Build Setup
 
