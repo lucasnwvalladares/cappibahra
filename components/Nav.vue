@@ -75,7 +75,7 @@ export default {
             to: '/movies'
           },
           {
-            icon: 'mdi-apps',
+            icon: 'mdi-store',
             title: 'E-Commerce',
             to: '/ecommerce'
           },
@@ -88,6 +88,11 @@ export default {
             icon: 'mdi-controller',
             title: 'GAME',
             to: '/game'
+          },
+          {
+            icon: 'mdi-camera-timer',
+            title: 'Timer',
+            to: '/timer'
           },
           {
             icon: 'mdi-card-account-mail-outline',
