@@ -48,14 +48,7 @@ Layouts are a great help when you want to change the look and feel of your Nuxt 
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/layouts).
 
-
-<<<<<<< HEAD
-### `pages`
-
-#### `movies`
-=======
 ### [`pages`](https://github.com/lucasnwvalladares/cappibahra/tree/master/pages)
->>>>>>> 895ffbf90992a49e47641455a859ca5654b6e81b
 
 This directory contains your application views and routes. Nuxt will read all the `*.vue` files inside this directory and setup Vue Router automatically.
 
